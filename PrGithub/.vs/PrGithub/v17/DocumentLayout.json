@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\PracticaGithub\\PrGithub\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87091231-4A97-40FC-BA3E-717A16E5BC5B}|PracticaEscritura\\PracticaEscritura.csproj|c:\\practicagithub\\prgithub\\practicaescritura\\escritura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87091231-4A97-40FC-BA3E-717A16E5BC5B}|PracticaEscritura\\PracticaEscritura.csproj|solutionrelative:practicaescritura\\escritura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EC032416-EB57-47A7-B06E-9895E211F14E}|PracticaGithub\\PracticaGithub.csproj|c:\\practicagithub\\prgithub\\practicagithub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC032416-EB57-47A7-B06E-9895E211F14E}|PracticaGithub\\PracticaGithub.csproj|solutionrelative:practicagithub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87091231-4A97-40FC-BA3E-717A16E5BC5B}|PracticaEscritura\\PracticaEscritura.csproj|c:\\practicagithub\\prgithub\\practicaescritura\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87091231-4A97-40FC-BA3E-717A16E5BC5B}|PracticaEscritura\\PracticaEscritura.csproj|solutionrelative:practicaescritura\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Escritura.cs",
+              "DocumentMoniker": "C:\\PracticaGithub\\PrGithub\\PracticaEscritura\\Escritura.cs",
+              "RelativeDocumentMoniker": "PracticaEscritura\\Escritura.cs",
+              "ToolTip": "C:\\PracticaGithub\\PrGithub\\PracticaEscritura\\Escritura.cs",
+              "RelativeToolTip": "PracticaEscritura\\Escritura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:00:32.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\PracticaGithub\\PrGithub\\PracticaEscritura\\Class1.cs",
+              "RelativeDocumentMoniker": "PracticaEscritura\\Class1.cs",
+              "ToolTip": "C:\\PracticaGithub\\PrGithub\\PracticaEscritura\\Class1.cs",
+              "RelativeToolTip": "PracticaEscritura\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:00:09.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\PracticaGithub\\PrGithub\\PracticaGithub\\Program.cs",
               "RelativeDocumentMoniker": "PracticaGithub\\Program.cs",
               "ToolTip": "C:\\PracticaGithub\\PrGithub\\PracticaGithub\\Program.cs",
               "RelativeToolTip": "PracticaGithub\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T20:52:12.459Z",
               "EditorCaption": ""
