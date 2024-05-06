@@ -1,0 +1,7 @@
+C:\PracticaGithub\PrGithub\PracticaGithub\bin\Debug\PracticaGithub.exe.config
+C:\PracticaGithub\PrGithub\PracticaGithub\bin\Debug\PracticaGithub.exe
+C:\PracticaGithub\PrGithub\PracticaGithub\bin\Debug\PracticaGithub.pdb
+C:\PracticaGithub\PrGithub\PracticaGithub\obj\Debug\PracticaGithub.csproj.AssemblyReference.cache
+C:\PracticaGithub\PrGithub\PracticaGithub\obj\Debug\PracticaGithub.csproj.CoreCompileInputs.cache
+C:\PracticaGithub\PrGithub\PracticaGithub\obj\Debug\PracticaGithub.exe
+C:\PracticaGithub\PrGithub\PracticaGithub\obj\Debug\PracticaGithub.pdb
